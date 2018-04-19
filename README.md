@@ -13,8 +13,8 @@ Instructions
 Questions
 ---------
 
-1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:**
-1. What are the stages in their proposed career path for testers? **Answer:**
+1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:** Because they view testing as a dead-end job.
+1. What are the stages in their proposed career path for testers? **Answer:** The stages for testers is: apprenticeship, mastery, specialization, leadership and certification.
 
 Prerequisites
 -------------
